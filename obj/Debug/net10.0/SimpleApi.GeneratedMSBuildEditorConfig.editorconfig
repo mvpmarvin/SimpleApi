@@ -12,13 +12,21 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleApi
 build_property.RootNamespace = SimpleApi
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\rayane62252406\Desktop\DevOps\SimpleApi\
+=======
 build_property.ProjectDir = C:\Users\carlos62181106\Downloads\Atividade DEVOPS\ApiClonada\SimpleApi\
+>>>>>>> origin/main
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
+build_property.MSBuildProjectDirectory = C:\Users\rayane62252406\Desktop\DevOps\SimpleApi
+=======
 build_property.MSBuildProjectDirectory = C:\Users\carlos62181106\Downloads\Atividade DEVOPS\ApiClonada\SimpleApi
+>>>>>>> origin/main
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
